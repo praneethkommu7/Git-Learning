@@ -4,5 +4,3 @@ Assign the roles and responsibilites
 Manage the DB.
 Closing the connections.
 
-Change 1
-Change 2

@@ -5,5 +5,3 @@ Creating an Avatar Fetaure (Beta)
 
 Login Logout
 
-change 1
-change 2
