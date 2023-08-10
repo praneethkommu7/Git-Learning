@@ -4,3 +4,4 @@ Assign the roles and responsibilites
 Manage the DB.
 Closing the connections.
 
+Merge Conflict by Feature3
