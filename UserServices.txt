@@ -5,3 +5,4 @@ Creating an Avatar Fetaure (Beta)
 
 Login Logout
 
+Git Feature3 Added
